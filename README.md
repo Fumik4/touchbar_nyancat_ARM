@@ -6,7 +6,7 @@ Stupid Nyan Cat animation on your +$2k MacBook Pro's Touchbar. Enjoy.
 
 
 
-[Download ⬇️](https://github.com/avatsaev/touchbar_nyancat/releases)
+[Download ⬇️](https://github.com/Fumik4/touchbar_nyancat_ARM/releases)
 
 
 # Instructions
